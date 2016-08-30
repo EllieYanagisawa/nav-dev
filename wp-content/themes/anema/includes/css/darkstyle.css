@@ -1,0 +1,65 @@
+/*------------------------------------------------------------------
+
+[Table of contents]
+
+
+
+1. Common Styles for Dark
+
+		--body		
+
+		
+
+-----*/		
+
+body {
+
+    background-color: #272727;
+
+	color: #000;
+
+}
+
+.wr-dark-version blockquote p, 
+
+.wr-dark-version .block-form blockquote p {
+
+    color: #DCD8D8;
+
+}
+
+.wr-dark-version h1, 
+
+.wr-dark-version h2, 
+
+.wr-dark-version h3, 
+
+.wr-dark-version h4, 
+
+.wr-dark-version h5, 
+
+.wr-dark-version h6, 
+
+.wr-dark-version h7 {
+
+    color: #000;
+
+}
+
+.wr-dark-version .section-sidebar input, 
+
+.wr-dark-version .section-sidebar button, 
+
+.wr-dark-version .section-sidebar select, 
+
+.wr-dark-version .section-sidebar textarea {
+
+    background: #262525;
+
+}
+
+#header.header-top-fixed .navbar-default .navbar-nav > li > a {
+
+    color: rgba(0, 0, 0, 0.9)!important;
+
+}

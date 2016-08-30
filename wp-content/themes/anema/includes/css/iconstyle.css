@@ -1,0 +1,12 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. Common Styles for nav icon
+		--body
+		
+		
+-----*/		
+
+ #header .nav .bg-icon center {
+    display: none!important;
+}
